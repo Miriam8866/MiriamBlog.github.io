@@ -1,0 +1,9 @@
+/* 设置整个页面的背景图 */
+body {
+  background-image: url("/MiriamBlog.github.io/images/background.jpg"); /* 背景图路径 */
+  background-size: cover;        /* 背景图自动缩放填满页面 */
+  background-repeat: no-repeat;  /* 不重复平铺 */
+  background-attachment: fixed;  /* 背景固定，不随页面滚动 */
+  background-position: center;   /* 居中显示 */
+  color: white; /* 设置字体颜色为白色 */
+}
